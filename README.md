@@ -1,7 +1,7 @@
 # azure-devops
 Repo for Azure DevOps
 
-
+[![CI](https://github.com/vradicevic/azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/vradicevic/azure-devops/actions/workflows/main.yml)
 
 This is edited in Clou Shell.
 
